@@ -1,7 +1,7 @@
 ### EAE! Sou Lucas Davi
 
 
-- 🌱 Estudando C#, HTML e CSS
+- 🌱 Estudando JavaScript, HTML e CSS
 - ⚡ Fato Divertido: O maior vulcão do Sistema Solar se encontra em Marte. Ele se chama Monte Olimpo, conta com mais de 600 quilômetros de diâmetro e, até onde se sabe, se trata de um vulcão extinto.
 - 🎮 Gamer de coração
 - 📖 Viciado em manhua e manhwa
