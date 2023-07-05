@@ -11,8 +11,8 @@
 
 <div align="center">
 <a href="https://github.com/lucasdavi99">
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=marcosilva2336&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosilva2336&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=lucasdavi99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdavi99&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ### Tecnologias
