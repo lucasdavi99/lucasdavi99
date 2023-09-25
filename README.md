@@ -1,4 +1,4 @@
-### EAE! Sou Lucas Davi
+### Eae! Sou Lucas Davi
 
 
 - 🌱 Estudando tudo que posso
