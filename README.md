@@ -33,4 +33,4 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-![Snake animation](https://github.com/lucasdavi99/lucasdavi99/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]([https://github.com/lucasdavi99/lucasdavi99/blob/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
