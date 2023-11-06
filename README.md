@@ -26,5 +26,3 @@
 <img align="right" height="130em" alt="SQL" src="https://cdn.discordapp.com/attachments/775940076198297601/1124320480476811306/Design_sem_nome.gif"/>
 
 </div><br>
-
-![Snake animation](https://github.com/lucasdavi99/lucasdavi99/blob/output/github-contribution-grid-snake.svg)
