@@ -8,13 +8,7 @@
 
 ###
 
-- 🌱 Studying everything I can
-
-- ⚡ Fun Fact: The largest volcano in the Solar System is located on Mars. It’s called Olympus Mons, spans over 600 kilometers in diameter, and, as far as we know, is an extinct volcano.
-
-- 🎮 Gamer at heart
-
-- 📖 Addicted to manhua and manhwa
+<p align="left">🌱 Studying everything I can<br><br>⚡ Fun Fact: The largest volcano in the Solar System is located on Mars. It’s called Olympus Mons, spans over 600 kilometers in diameter, and, as far as we know, is an extinct volcano.<br><br>🎮 Gamer at heart<br><br>📖 Addicted to manhua and manhwa</p>
 
 ###
 
@@ -27,21 +21,21 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="20" />
+  <img width="29" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="20" />
+  <img width="29" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="20" />
+  <img width="29" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="20" />
+  <img width="29" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="20" />
+  <img width="29" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="20" />
+  <img width="29" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="20" />
+  <img width="29" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="20" />
+  <img width="29" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 </div>
 
