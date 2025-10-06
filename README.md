@@ -1,28 +1,67 @@
-### Eae! Sou Lucas Davi
-
-
-- 🌱 Estudando tudo que posso
-- ⚡ Fato Divertido: O maior vulcão do Sistema Solar se encontra em Marte. Ele se chama Monte Olimpo, conta com mais de 600 quilômetros de diâmetro e, até onde se sabe, se trata de um vulcão extinto.
-- 🎮 Gamer de coração
-- 📖 Viciado em manhua e manhwa
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-davi-113b1370/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasdavi99/)
-
-<div align="center">
-<a href="https://github.com/lucasdavi99">
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=lucasdavi99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdavi99&layout=compact&langs_count=7&theme=tokyonight"/>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-### Tecnologias
+###
 
-<div style="display: inline_block"><br/>
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-DD0031?style=for-the-badge&logo=openjdk&logoColor=black"/>
-<img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-02569B?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="right" height="130em" alt="SQL" src="https://cdn.discordapp.com/attachments/775940076198297601/1124320480476811306/Design_sem_nome.gif"/>
+<h2 align="left">Hi 👋! My name is Lucas</h2>
 
-</div><br>
+###
+
+- 🌱 Studying everything I can
+
+- ⚡ Fun Fact: The largest volcano in the Solar System is located on Mars. It’s called Olympus Mons, spans over 600 kilometers in diameter, and, as far as we know, is an extinct volcano.
+
+- 🎮 Gamer at heart
+
+- 📖 Addicted to manhua and manhwa
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasdavi99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasdavi99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/lucasdavi99/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/lucasdavi17/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasdavi99/lucasdavi99/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasdavi99/lucasdavi99/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lucasdavi99/lucasdavi99/output/pacman-contribution-graph.svg">
+</picture>
+
+###
