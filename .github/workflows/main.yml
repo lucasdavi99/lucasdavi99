@@ -17,7 +17,7 @@ jobs:
 
     steps:
       - name: Generate Pac-Man contribution graph
-        uses: Platane/snk@v3
+        uses: Platane/snk@dev  # usa a versão que contém o modo pacman
         with:
           github_user_name: lucasdavi99
           mode: pacman
